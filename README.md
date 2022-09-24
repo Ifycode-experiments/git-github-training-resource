@@ -28,3 +28,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Github markdown resources
+This resource tells you [how to format content using github](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) and you can also click this to [Download github markdown cheat sheet in pdf](https://ifycode.github.io/git-github-training/markdown-cheatsheet.pdf)
