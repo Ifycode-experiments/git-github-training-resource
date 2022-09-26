@@ -1,13 +1,36 @@
-# Git & Github training exercises
+# Documentation for the Git & Github training exercises
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Git & Github training exercises for when interacting with a repository that is not yours. 
+This is the documention for the [Git & Github training exercises](https://github.com/Ifycode/git-github-training) project. The purpose of the Git & Github training videos and exercises added here is to help with interacting with a repository that is not yours.
+
+## Introduction
+- Video: Introduction
+## Part 1: Github UI
+- **Github UI (set 1):**
+  - Learning videos:
+    - Add video 1 here
+    - Add video 2 here
+    - Add video 3 here
+  - Task:
+    - Add task 1 here
+- **Github UI (set 2)**:
+  - Learning video:
+    - Add video here
+  - Tasks:
+    - Add task 2 here
+    - Add task 3 here
+
+Completing content structure soon
+<!--
+## Part 2: Command-line git
+
 ## How to submit your changes to this repo with Github UI
 Watch this video to learn how to add content to a repo that is not yours, through the Github UI: [YouTube tutorial](https://www.youtube.com/watch?v=2X1FjFqIwIY).
 
 ## Github markdown resources
 This resource tells you [how to format content using github markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) and you can also click this to [download github markdown cheat sheet in pdf](https://ifycode.github.io/git-github-training/markdown-cheatsheet.pdf).
+-->
 
 ## Contributors ✨
 
