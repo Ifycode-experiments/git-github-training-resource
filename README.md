@@ -18,8 +18,8 @@ This is the documention for the [Git & Github training exercises](https://github
   - Learning video:
     - Add video here
   - Tasks:
+    - Add task 1 here
     - Add task 2 here
-    - Add task 3 here
 
 Completing content structure soon
 <!--
