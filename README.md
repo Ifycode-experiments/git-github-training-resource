@@ -4,24 +4,6 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is the documention for the [Git & Github training exercises](https://github.com/Ifycode/git-github-training) project. The purpose of the Git & Github training videos and exercises added here is to help with interacting with a repository that is not yours.
 
-## Introduction
-- Video: Introduction
-## Part 1: Github UI
-- **Github UI (set 1):**
-  - Learning videos:
-    - Add video 1 here
-    - Add video 2 here
-    - Add video 3 here
-  - Task:
-    - Add task 1 here
-- **Github UI (set 2)**:
-  - Learning video:
-    - Add video here
-  - Tasks:
-    - Add task 1 here
-    - Add task 2 here
-
-Completing content structure soon
 <!--
 ## Part 2: Command-line git
 
