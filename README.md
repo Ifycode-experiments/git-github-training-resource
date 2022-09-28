@@ -2,7 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-This is the documention for the [Git & Github training exercises](https://github.com/Ifycode/git-github-training) project. The purpose of the Git & Github training videos and exercises added here is to help with interacting with a repository that is not yours.
+The documention repo for the [Git & Github training exercises](https://github.com/Ifycode/git-github-training) project. Find documentation [live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises) (The gitbook documentation is still a work in progress).
 
 <!--
 ## Part 2: Command-line git
