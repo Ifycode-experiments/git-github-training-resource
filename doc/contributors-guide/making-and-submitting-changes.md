@@ -1,5 +1,15 @@
-# Making & submitting changes
+# How to submit your changes to this training resource
 
-Add video content to this page
+Add Git workflow intro here
 
-Add text content to this page
+### Add your changes using the GitHub UI&#x20;
+
+Add video here
+
+Add text content
+
+### Add your changes using the command line
+
+Add video here
+
+Add text content

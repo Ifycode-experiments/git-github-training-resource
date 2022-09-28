@@ -5,4 +5,4 @@
 ## contributors guide
 
 * [Contributing guidelines](contributors-guide/contributing-guidelines.md)
-* [Making & submitting changes](contributors-guide/making-and-submitting-changes.md)
+* [How to submit your changes to this training resource](contributors-guide/making-and-submitting-changes.md)
