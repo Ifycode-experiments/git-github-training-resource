@@ -1,11 +1,15 @@
 # Table of contents
 
-* [Git & Github training exercises](README.md)
+* [Introduction: Git & Github training exercises](README.md)
 
 ## Part 1: Github UI
 
-* [Set 1 - Learning videos and tasks](part-1-github-ui/set-1-learning-videos-and-tasks.md)
-* [Set 2 - Learning videos and tasks](part-1-github-ui/set-2-learning-videos-and-tasks.md)
+* [Set 1 - Github UI Learning videos and tasks](part-1-github-ui/set-1-github-ui-learning-videos-and-tasks.md)
+* [Set 2 - Github UI Learning videos and tasks](part-1-github-ui/set-2-github-ui-learning-videos-and-tasks.md)
+
+## part 2: Coming soon
+
+* [Pages coming soon](part-2-coming-soon/pages-coming-soon.md)
 
 ## contributors guide
 
