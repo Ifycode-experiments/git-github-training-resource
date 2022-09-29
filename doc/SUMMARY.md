@@ -15,3 +15,8 @@
 
 * [Contributing guidelines](contributors-guide/contributing-guidelines.md)
 * [How to submit your changes to this training resource](contributors-guide/making-and-submitting-changes.md)
+
+## github repositories
+
+* [Training Repo](https://github.com/Ifycode/git-github-training)
+* [Documentation Repo](https://github.com/Ifycode/git-github-training-documentation)

@@ -1,3 +1,3 @@
 # Contributing guidelines
 
-Work in progress page
+Add contributing guidelines here

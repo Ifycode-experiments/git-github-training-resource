@@ -13,7 +13,3 @@ Add text content
 Add video here
 
 Add text content
-
-
-
-Work in progress page
