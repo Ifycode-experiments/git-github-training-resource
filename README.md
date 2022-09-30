@@ -1,17 +1,15 @@
-# Git & Github training exercises
+# Documentation for the Git & Github training
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Git & Github training exercises for when interacting with a repository that is not yours. 
-## How to submit your changes to this repo with Github UI
-Watch this video to learn how to add content to a repo that is not yours, through the Github UI: [YouTube tutorial](https://www.youtube.com/watch?v=2X1FjFqIwIY).
 
-## Github markdown resources
-This resource tells you [how to format content using github markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) and you can also click this to [download github markdown cheat sheet in pdf](https://ifycode.github.io/git-github-training/markdown-cheatsheet.pdf).
+[![@ifycode's Holopin board](https://holopin.io/api/user/board?user=ifycode)](https://holopin.io/@ifycode)
+
+The documention repo for the [Git & Github training](https://github.com/Ifycode/git-github-training) project. Find documentation [live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises) (The gitbook documentation is still a work in progress).
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks to our wonderful contributors to the [Git & Github training](https://github.com/Ifycode/git-github-training) and [documentation](https://github.com/Ifycode/git-github-training-documentation) projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key). Contributions of any kind welcome!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -30,7 +28,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
 
