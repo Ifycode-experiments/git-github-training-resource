@@ -2,6 +2,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+[![@ifycode's Holopin board](https://holopin.io/api/user/board?user=ifycode)](https://holopin.io/@ifycode)
+
 The documention repo for the [Git & Github training](https://github.com/Ifycode/git-github-training) project. Find documentation [live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises) (The gitbook documentation is still a work in progress).
 
 ## Contributors ✨
