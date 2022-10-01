@@ -7,7 +7,8 @@
 
 The documention repo for the [Git & Github training](https://github.com/Ifycode/git-github-training) project. Find documentation [live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises) (The gitbook documentation is still a work in progress).
 
-**Note**: Reload any one page from [the gitbook documentation](https://obiagba-mary.gitbook.io/git-and-github-training) (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
+> **Note** 
+> Reload any one page from [the gitbook documentation](https://obiagba-mary.gitbook.io/git-and-github-training) (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
 
 ## Contributors ✨
 
