@@ -9,6 +9,13 @@ The documention repo for the [Git & Github training](https://github.com/Ifycode/
 
 **Note**: Reload any one page from [the gitbook documentation](https://obiagba-mary.gitbook.io/git-and-github-training) (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
 
+The purpose of the Git & Github training videos and exercises added here is to provide an interactive platform, that will help prepare learners for internships and jobs that require the use of git and GitHub. There will be no code-related content, the only type of files the training will use are files with .md extensions. The content of the training will help to understand and practice:
+
+- GitHub contributions
+- Use of the Github UI
+- Use of command line
+- Git workflow
+
 ## Contributors ✨
 
 Thanks to our wonderful contributors to the [Git & Github training](https://github.com/Ifycode/git-github-training) and [documentation](https://github.com/Ifycode/git-github-training-documentation) projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key). Contributions of any kind welcome!
