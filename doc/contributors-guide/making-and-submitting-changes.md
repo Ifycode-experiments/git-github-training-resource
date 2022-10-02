@@ -10,6 +10,10 @@ Everyone is welcome to help improve the content of the Git and Github training r
 * Send a pull request pointing to the develop branch of the original learning resource repo.
 * Wait for review of your changes from the repo admin(s).
 
+{% hint style="info" %}
+The contributors interested in improving the contents of the learning resource can find the files to update in the [doc folder](https://github.com/Ifycode/git-github-training-resource/tree/develop/doc) of the [learning resource repo](https://github.com/Ifycode/git-github-training-resource).
+{% endhint %}
+
 ### Training repo: How to submit your changes
 
 * Fork the [training repo](https://github.com/Ifycode/git-github-training) (Additional information: The default branch of the [training repo](https://github.com/Ifycode/git-github-training) is the main branch. So on the "Create a new fork" page, make sure to uncheck the "Copy the main branch only" checkbox before clicking on the "create fork" button. This will allow you to also have the develop branch, since you will need the develop branch for the next steps).
