@@ -6,4 +6,4 @@
 - [ ] I have linked the issue I worked on to this pull request submitted by me
 - [ ] I certify that I ran my checklist.
 
-Ping @Ifycode/git-github-training-documentation
+Ping @Ifycode/git-github-training-resource

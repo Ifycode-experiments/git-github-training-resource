@@ -12,7 +12,7 @@ This repo is for putting together the learning resource(s) for the Git & Github 
 
 ## Contributors ✨
 
-Thanks to our wonderful contributors to the [Git & Github training](https://github.com/Ifycode/git-github-training) and [documentation](https://github.com/Ifycode/git-github-training-documentation) projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key). Contributions of any kind welcome!
+Thanks to our wonderful contributors to the [Git & Github training](https://github.com/Ifycode/git-github-training) and [learning resource](https://github.com/Ifycode/git-github-training-resource) projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key). Contributions of any kind welcome!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
