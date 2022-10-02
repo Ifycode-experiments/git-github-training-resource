@@ -6,7 +6,7 @@ Add Git workflow intro here
 
 Add video here
 
-* Fork the documentation repo (Additional information: The default branch of the documentation repo has been set  to develop branch. So on the "Create a new fork" page, you can leave the "Copy the develop branch only" checkbox as checked since you will need the develop branch for the next steps).
+* Fork the [documentation repo](https://github.com/Ifycode/git-github-training-documentation) (Additional information: The default branch of the [documentation repo](https://github.com/Ifycode/git-github-training-documentation) has been set  to develop branch. So on the "Create a new fork" page, you can leave the "Copy the develop branch only" checkbox as checked since you will need the develop branch for the next steps).
 * Confirm that you are in the develop branch of your fork.
 * Create a new branch from the develop branch and make your changes in the new branch you created.
 * Send a pull request pointing to the develop branch of the original documentation repo.
