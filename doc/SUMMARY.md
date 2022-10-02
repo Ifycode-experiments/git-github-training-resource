@@ -19,4 +19,4 @@
 ## github repositories
 
 * [Training Repo](https://github.com/Ifycode/git-github-training)
-* [Documentation Repo](https://github.com/Ifycode/git-github-training-documentation)
+* [Learning Resource Repo](https://github.com/Ifycode/git-github-training-resource)
