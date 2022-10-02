@@ -9,7 +9,6 @@ The documention repo for the [Git & Github training](https://github.com/Ifycode/
 
 **Note**: Reload any one page from [the gitbook documentation](https://obiagba-mary.gitbook.io/git-and-github-training) (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
 
-
 ## Contributors ✨
 
 Thanks to our wonderful contributors to the [Git & Github training](https://github.com/Ifycode/git-github-training) and [documentation](https://github.com/Ifycode/git-github-training-documentation) projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key). Contributions of any kind welcome!
