@@ -32,12 +32,21 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Danbaba1",
+      "name": "Daniel Oladepo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98762494?v=4",
+      "profile": "https://github.com/Danbaba1",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "git-github-training",
+  "projectName": "git-github-training-resource",
   "projectOwner": "Ifycode"
 }
