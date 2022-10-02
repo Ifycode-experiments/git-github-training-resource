@@ -4,8 +4,8 @@ The purpose of the Git & Github training videos and exercises added here is to h
 
 ### Watch video introduction
 
-{% embed url="https://www.youtube.com/watch?v=mziEBPg_YXc" %}
-Git & GitHub training: Introduction
+{% embed url="https://youtu.be/lfZ5kGfY9Y8" %}
+Git and Github training Introduction
 {% endembed %}
 
 {% hint style="info" %}
