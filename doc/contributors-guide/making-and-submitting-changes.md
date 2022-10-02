@@ -1,6 +1,6 @@
 # How to submit your changes to this training resource
 
-Add Git workflow intro here
+Everyone is welcome to help improve the content of the Git and Github training resources. There are two repositories linked to the Git and Github project i.e. [learning resource repo](https://github.com/Ifycode/git-github-training-resource) and the [training repo](https://github.com/Ifycode/git-github-training). Interested contributors can follow the guides below when contributing to any of the Git and Github training repositories.
 
 ### Learning resource repo: Add your changes using the GitHub UI
 
