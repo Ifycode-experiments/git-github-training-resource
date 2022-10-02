@@ -1,14 +1,14 @@
-# Documentation for the Git & Github training
+# Git & Github training learning resource
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![@ifycode's Holopin board](https://holopin.io/api/user/board?user=ifycode)](https://holopin.io/@ifycode)
 
-The documention repo for the [Git & Github training](https://github.com/Ifycode/git-github-training) project. Find documentation [live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises) (The gitbook documentation is still a work in progress).
+This repo is for putting together the learning resource(s) for the Git & Github training project. You can [access the video lectures live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
 
 > **Note** 
-> Reload any one page from [the gitbook documentation](https://obiagba-mary.gitbook.io/git-and-github-training) (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
+> Reload any one page from [the gitbook resource](https://obiagba-mary.gitbook.io/git-and-github-training) (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
 
 ## Contributors ✨
 
