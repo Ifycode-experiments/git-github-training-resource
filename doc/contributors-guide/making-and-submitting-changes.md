@@ -21,3 +21,7 @@ Everyone is welcome to help improve the content of the Git and Github training r
 {% hint style="info" %}
 Reload any one page from this learning resource (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
 {% endhint %}
+
+{% hint style="info" %}
+The contributors interested in improving the contents of the learning resource can find the files to update in the [doc folder](https://github.com/Ifycode/git-github-training-resource/tree/develop/doc) of the [learning resource repo](https://github.com/Ifycode/git-github-training-resource).
+{% endhint %}
