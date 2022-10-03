@@ -2,7 +2,7 @@
 
 ## Learning videos
 
-At this point, the focus is not about Git and Github best practices. The learning videos here will cover the basic things needed to get started with contributing to any project. What you will learn will also help you to tackle the tasks that have been provided for you to do after watching the learning videos.
+At this point, the focus is not about Git and Github best practices. The learning videos here will cover the basic things needed to get started with contributing to any project using the Github UI. What you will learn will also help you to tackle the tasks that have been provided for you to do after watching the learning videos.
 
 ### Forking a repo, and how to know which branch you are in
 
