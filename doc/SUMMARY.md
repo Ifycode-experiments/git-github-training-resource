@@ -6,6 +6,7 @@
 
 * [Set 1 - Github UI Learning videos and tasks](part-1-github-ui/set-1-github-ui-learning-videos-and-tasks.md)
 * [Set 2 - Github UI Learning videos and tasks](part-1-github-ui/set-2-github-ui-learning-videos-and-tasks.md)
+* [Discussion for Part 1](https://github.com/Ifycode/git-github-training/discussions/79)
 
 ## part 2: Coming soon
 
@@ -15,6 +16,7 @@
 
 * [Contributing guidelines](contributors-guide/contributing-guidelines.md)
 * [How to submit your changes to this training resource](contributors-guide/making-and-submitting-changes.md)
+* [Discussion for Contributors](https://github.com/Ifycode/git-github-training-resource/discussions/2)
 
 ## github repositories
 
