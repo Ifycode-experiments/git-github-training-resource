@@ -5,7 +5,7 @@
 
 [![@ifycode's Holopin board](https://holopin.io/api/user/board?user=ifycode)](https://holopin.io/@ifycode)
 
-This repo is for putting together the learning resource(s) for the Git & Github training project. You can [access the video lectures live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
+This repo is for putting together the learning resource(s) for the Git & Github training project. You can [access the video lectures live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises). Other places where you can access the video content from are the [youtube playlist](https://youtube.com/playlist?list=PLMDhbo3xlD1ESa1_9WN4yG7bGDDksEQx7) and the [training repo readme](https://github.com/Ifycode/git-github-training).
 
 > **Note** 
 > Reload any one page from [the gitbook resource](https://obiagba-mary.gitbook.io/git-and-github-training) (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
