@@ -5,6 +5,7 @@ Everyone is welcome to help improve the content of the Git and Github training r
 {% hint style="info" %}
  Interested contributors should note that taking the [Git and Github training](https://obiagba-mary.gitbook.io/git-and-github-training) can help you get better at contributing to the Git and Github training project (and any other Github projects they will be taking on in the future).
 {% endhint %}
+
 ### Learning resource repo: How to submit your changes
 
 * Fork the [learning resource repo](https://github.com/Ifycode/git-github-training-resource) (Additional information: The default branch of the [learning resource repo](https://github.com/Ifycode/git-github-training-resource) has been set to develop branch. So on the "Create a new fork" page, you can leave the "Copy the develop branch only" checkbox as checked since you will need the develop branch for the next steps).
