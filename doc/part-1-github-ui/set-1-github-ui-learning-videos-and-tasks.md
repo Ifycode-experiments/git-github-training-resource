@@ -28,11 +28,9 @@ YouTube Video
 YouTube Video
 {% endembed %}
 
-Some other set 1 learning videos are not available yet. Check back on the 9th of October 2022.
-
 ## Tasks
 
-Task videos go here. Videos not available yet. Check back on the 9th of October 2022.
+Tasks go here
 
 {% hint style="info" %}
 Reload any one page from this learning resource (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
