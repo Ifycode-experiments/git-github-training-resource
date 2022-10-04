@@ -10,7 +10,7 @@
 
 ## part 2: Command line git
 
-* [Pages/videos coming soon](part-2-command-line-git/pages-coming-soon.md)
+* [Pages/videos coming soon](part-2-coming-soon/pages-coming-soon.md)
 
 ## contributors guide
 
