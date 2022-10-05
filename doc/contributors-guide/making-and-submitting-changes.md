@@ -6,6 +6,9 @@ Everyone is welcome to help improve the content of the Git and Github training r
  Interested contributors should note that taking the [Git and Github training](https://obiagba-mary.gitbook.io/git-and-github-training) can help you get better at contributing to the Git and Github training project (and any other Github projects they will be taking on in the future). As contributors you can indicate, share as you are contributors to the [Git and GitHub gitbook training resource](https://obiagba-mary.gitbook.io/git-and-github-training) on your portfolio, as long as you are among contributors listed in the [contributors section](https://github.com/Ifycode/git-github-training-resource#contributors-). Anyone who has contributed and has not been added to the contributors list should [notify repo admins through the learning resource repo's discussion.](https://github.com/Ifycode/git-github-training-resource/discussions/2)
 {% endhint %}
 
+{% hint style="info" %}
+As contributors you can indicate and share to the [Git and GitHub gitbook training resource](https://obiagba-mary.gitbook.io/git-and-github-training) on your portfolio, as long as you are among contributors listed in the [contributors section](https://github.com/Ifycode/git-github-training-resource#contributors-). Anyone who has contributed and has not been added to the contributors list should [notify repo admins through the learning resource repo's discussion.](https://github.com/Ifycode/git-github-training-resource/discussions/2)
+{% endhint %}
 
 ### Learning resource repo: How to submit your changes
 
