@@ -43,9 +43,8 @@ The review you will get after you are done with the task will be based on the in
 {% endhint %}
 
 {% embed url="https://youtu.be/SNfWwGD7UuI" %}
-Part 1 set 1 tasks 1 and 2
+Tasks 1 and 2 for Part 1 set 1
 {% endembed %}
-
 
 {% hint style="info" %}
 Reload any one page from this learning resource (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
