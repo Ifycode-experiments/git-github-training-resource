@@ -42,8 +42,9 @@ You will now learn to use everything you have learnt about in the learning video
 The review you will get after you are done with the task will be based on the instructions in the issue and everything treated in the learning videos you have watched so far. Watch the video below to get better understanding on the tasks :thumbsup:
 {% endhint %}
 
-Task video goes here. Videos not available yet. Check back on the 9th of October 2022.
-
+{% embed url="https://youtu.be/SNfWwGD7UuI" %}
+Part 1 set 1 tasks 1 and 2
+{% endembed %}
 
 
 {% hint style="info" %}
