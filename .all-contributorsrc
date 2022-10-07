@@ -50,9 +50,27 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "YashPimple",
+      "name": "Yash Pimple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97302447?v=4",
+      "profile": "http://linktr.ee/yashpimple",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 4,
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
