@@ -28,7 +28,15 @@ YouTube Video
 YouTube Video
 {% endembed %}
 
-Some other set 1 learning videos are not available yet. Check back on the 9th of October 2022.
+### Create, edit and delete files or folders using GITHUB UI)
+{% embed url="https://youtu.be/lqSdpFmT3y4" %}
+YouTube Video
+{% endembed %}
+
+### When to delete a branch connected to pull request or a fork
+{% embed url="https://youtu.be/K8PmM6mRLIo" %}
+YouTube Video
+{% endembed %}
 
 ## Tasks
 
