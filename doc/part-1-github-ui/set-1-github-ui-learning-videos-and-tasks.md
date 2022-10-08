@@ -28,7 +28,17 @@ YouTube Video
 YouTube Video
 {% endembed %}
 
+### Syncing your fork
+{% embed url="https://youtu.be/A2gqOvGpH_0" %}
+YouTube Video
+{% endembed %}
+
 Some other set 1 learning videos are not available yet. Check back on the 9th of October 2022.
+
+### General information about the training tasks
+{% embed url="https://youtu.be/gGpH3kdbQns" %}
+YouTube Video
+{% endembed %}
 
 ## Tasks
 
