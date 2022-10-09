@@ -35,6 +35,8 @@ If you have never filled out this sign-up form, ensure to fill it out before you
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLScxFYaotxy1RuoOsPwBbWWtsKkRQA-HtKHq5Lv3F2Hn4EY5bA/viewform?usp=sf_link" %}
+Embedded sign-up form for the Git and Github training
+{% endembed %}
 
 {% hint style="info" %}
 Reload any one page from this learning resource (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
