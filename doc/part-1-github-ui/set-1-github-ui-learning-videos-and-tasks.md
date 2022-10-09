@@ -1,4 +1,4 @@
-# Set 1 - Github UI Learning videos and tasks
+# Set 1 learning videos and tasks
 
 ## Learning videos
 
@@ -29,18 +29,20 @@ YouTube Video
 {% endembed %}
 
 ### Managing files or folders (create, edit and delete)
+
 {% embed url="https://youtu.be/lqSdpFmT3y4" %}
 YouTube Video
 {% endembed %}
 
 ### When to delete a branch connected to pull request or a fork
+
 {% embed url="https://youtu.be/K8PmM6mRLIo" %}
 YouTube Video
 {% endembed %}
 
 ## Tasks
 
-You will now learn to use everything you have learnt about in the learning videos. You should not have any issues while working on this task, if you follow the instructions to the latter. But incase you run into any issues, feel free to ask for help in the [Github discussion for part 1.](https://github.com/Ifycode/git-github-training/discussions/79) Or you can send the pull request anyway, and state the issue you have there in your pull request.&#x20;
+You will now learn to use everything you have learnt about in the learning videos. You should not have any issues while working on this task, if you follow the instructions to the latter. But incase you run into any issues, feel free to ask for help in the [Github discussion for part 1.](https://github.com/Ifycode/git-github-training/discussions/79) Or you can send the pull request anyway, and state the issue you have there in your pull request.
 
 **Task 1**: Create an issue using the template provided in [issue 34](https://github.com/Ifycode/git-github-training/issues/34). Replace your @your-github-username-here with your own Github username when you create the issue.
 
