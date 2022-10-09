@@ -28,7 +28,7 @@ YouTube Video
 YouTube Video
 {% endembed %}
 
-### Create, edit and delete files or folders using GITHUB UI)
+### Managing files or folders (create, edit and delete)
 {% embed url="https://youtu.be/lqSdpFmT3y4" %}
 YouTube Video
 {% endembed %}
