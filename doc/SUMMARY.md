@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Git & Github Training Introducion](README.md)
+* [Git & Github Training Introduction](README.md)
 
 ## Part 1: Github UI
 
