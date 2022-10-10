@@ -10,7 +10,7 @@
 
 ## part 2: Command line git
 
-* [Learning videos and tasks](part-2-coming-soon/pages-coming-soon.md)
+* [Learning videos and tasks](part-2-command-line-git/learning-videos-and-tasks.md)
 * [Discussion for Part 2](https://github.com/Ifycode/git-github-training/discussions/88)
 
 ## contributors guide
