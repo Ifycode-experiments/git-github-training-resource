@@ -6,7 +6,17 @@ PART 1: GITHUB UI
 
 ## Learning videos
 
-Set 2 learning videos are not available yet. Check back on or before the 12th of October 2022.
+### Default branch and pull request base branch
+
+{% embed url="https://www.youtube.com/watch?v=hRFBG3lMq9k" %}
+YouTube Video
+{% endembed %}
+
+### Workflow common practices and best practices
+
+{% embed url="https://www.youtube.com/watch?v=Ej396Vra1oQ" %}
+YouTube Video
+{% endembed %}
 
 ## Tasks
 
