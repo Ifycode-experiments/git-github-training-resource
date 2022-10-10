@@ -40,6 +40,18 @@ YouTube Video
 YouTube Video
 {% endembed %}
 
+### Syncing your fork
+
+{% embed url="https://youtu.be/A2gqOvGpH_0" %}
+YouTube Video
+{% endembed %}
+
+### General information about the training tasks
+
+{% embed url="https://youtu.be/gGpH3kdbQns" %}
+YouTube Video
+{% endembed %}
+
 ## Tasks
 
 You will now learn to use everything you have learnt about in the learning videos. You should not have any issues while working on this task, if you follow the instructions to the latter. But incase you run into any issues, feel free to ask for help in the [Github discussion for part 1.](https://github.com/Ifycode/git-github-training/discussions/79) Or you can send the pull request anyway, and state the issue you have there in your pull request.
