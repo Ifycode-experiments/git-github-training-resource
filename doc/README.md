@@ -1,6 +1,14 @@
-# Git & Github Training Introducion
+# Git & Github Training Introduction
 
-The purpose of the Git & Github training videos and exercises added here is to provide an interactive platform, that will help prepare learners for internships and jobs that require the use of git and GitHub. There will be no code-related content, the only type of files the training will use are files with `.md` extensions. The content of the training will help to understand and practice:
+The Git and GitHub training is a series of learning videos and task exercises put together to prepare anyone interested, for activities that could require the use of Git and GitHub like:
+
+* Hacktoberfest
+* Open source contributions
+* Internships or jobs
+
+This training is free and aims to provide an interactive platform where interested participants will be able to practice what they learn through the provided learning videos. There will be no code-related content, the only type of files the training will use are files with `.md` extensions.
+
+Participating in the Git and Github training will help to understand and solidify your knowledge on the following:
 
 * GitHub contributions
 * Use of the Github UI
@@ -16,7 +24,19 @@ Git and Github training Introduction
 
 ### How to get the best from this training
 
-This video is not available yet. Check back on the 9th of October 2022.
+This video is not available yet. Check back on or before the 12th of October 2022.
+
+### Sign up for this training
+
+Submitting the sign-up form will notify the instructor of your interest to take the training. This will help the instructor create time for you, attend to you, and better assist you when it is time for reviewing the solutions you submit for the tasks that will be given. You can fill out the form through the embed below, or choose to access the form through the [google form link](https://docs.google.com/forms/d/e/1FAIpQLScxFYaotxy1RuoOsPwBbWWtsKkRQA-HtKHq5Lv3F2Hn4EY5bA/viewform?usp=sf\_link).
+
+{% hint style="info" %}
+If you have never filled out this sign-up form, ensure to fill it out before you proceed with the training videos and tasks. If you have filled out this form before, you don't need to fill it out again. Just proceed with the training videos and tasks.
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScxFYaotxy1RuoOsPwBbWWtsKkRQA-HtKHq5Lv3F2Hn4EY5bA/viewform?usp=sf_link" %}
+Embedded sign-up form for the Git and Github training
+{% endembed %}
 
 {% hint style="info" %}
 Reload any one page from this learning resource (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
