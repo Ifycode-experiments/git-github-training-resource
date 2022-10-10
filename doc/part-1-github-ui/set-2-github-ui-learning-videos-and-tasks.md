@@ -4,7 +4,7 @@ Set 2 videos are not available yet. Check back on or before the 11th of October 
 
 ## Tasks
 {% embed url="https://youtu.be/IhpzEYTue34" %}
-YouTube Video
+Task for Part 1 set 2
 {% endembed %}
 
 {% hint style="info" %}
