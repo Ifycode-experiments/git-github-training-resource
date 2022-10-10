@@ -1,6 +1,16 @@
 # Set 2 learning videos and tasks
 
-Set 2 videos are not available yet. Check back on or before the 11th of October 2022.
+{% hint style="success" %}
+PART 1: GITHUB UI
+{% endhint %}
+
+## Learning videos
+
+Set 2 learning videos are not available yet. Check back on or before the 12th of October 2022.
+
+## Tasks
+
+Set 2 task video is not available yet. Check back on or before the 12th of October 2022.
 
 {% hint style="info" %}
 Reload any one page from this learning resource (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
