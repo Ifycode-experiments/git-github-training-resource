@@ -31,9 +31,9 @@ Thanks to our wonderful contributors to the [Git & Github training](https://gith
       <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt="All Contributors"/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=all-contributors" title="Documentation">📖</a></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/Danbaba1"><img src="https://avatars.githubusercontent.com/u/98762494?v=4?s=100" width="100px;" alt="Daniel Oladepo"/><br /><sub><b>Daniel Oladepo</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=Danbaba1" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/JaisonBinns"><img src="https://avatars.githubusercontent.com/u/44371995?v=4?s=100" width="100px;" alt="JayBee"/><br /><sub><b>JayBee</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=JaisonBinns" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/rk-1620"><img src="https://avatars.githubusercontent.com/u/109271418?v=4?s=100" width="100px;" alt="rk-1620"/><br /><sub><b>rk-1620</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=rk-1620" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/Danbaba1"><img src="https://avatars.githubusercontent.com/u/98762494?v=4?s=100" width="100px;" alt="Daniel Oladepo"/><br /><sub><b>Daniel Oladepo</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=Danbaba1" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
