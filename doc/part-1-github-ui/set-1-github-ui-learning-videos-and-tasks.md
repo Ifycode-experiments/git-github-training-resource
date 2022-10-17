@@ -8,52 +8,44 @@ PART 1: GITHUB UI
 
 At this point, the focus is not about Git and Github best practices. The learning videos here will cover the basic things needed to get started with contributing to any project using the Github UI. What you will learn will also help you to tackle the tasks that have been provided for you to do after watching the learning videos.
 
-### Forking a repo, and how to know which branch you are in
 
 {% embed url="https://youtu.be/W8TIY7mbvXo" %}
-YouTube Video
+Forking a repo, and how to know which branch you are in
 {% endembed %}
 
-### Contributions (overview, issues, commits) and branching
 
 {% embed url="https://youtu.be/DWAgcmMEiXE" %}
-YouTube Video
+Contributions (overview, issues, commits) and branching
 {% endembed %}
 
-### How to make pull request, and link an issue to pull request
 
 {% embed url="https://youtu.be/IqJWDTZdQG4" %}
-YouTube Video
+How to make pull request, and link an issue to pull request
 {% endembed %}
 
-### Reviews (& branch, pull requests, linking issues continued)
 
 {% embed url="https://youtu.be/Gt0ORe5aIx4" %}
-YouTube Video
+Reviews (& branch, pull requests, linking issues continued)
 {% endembed %}
 
-### Managing files or folders (create, edit and delete)
 
 {% embed url="https://youtu.be/lqSdpFmT3y4" %}
-YouTube Video
+Managing files or folders (create, edit and delete)
 {% endembed %}
 
-### When to delete a branch connected to pull request or a fork
 
 {% embed url="https://youtu.be/K8PmM6mRLIo" %}
-YouTube Video
+When to delete a branch connected to pull request or a fork
 {% endembed %}
 
-### Syncing your fork
 
 {% embed url="https://youtu.be/A2gqOvGpH_0" %}
-YouTube Video
+Syncing your fork
 {% endembed %}
 
-### General information about the training tasks
 
 {% embed url="https://youtu.be/gGpH3kdbQns" %}
-YouTube Video
+General information about the training tasks
 {% endembed %}
 
 ## Tasks
