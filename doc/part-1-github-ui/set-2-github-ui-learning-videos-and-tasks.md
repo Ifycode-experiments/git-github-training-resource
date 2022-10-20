@@ -8,7 +8,7 @@ PART 1: GITHUB UI
 
 ## Learning videos
 
-The learning videos in here will talk about workflows and best practices when working with git and Github.
+The learning videos in here will talk about workflows and best practices when working with the Github UI. What you will learn will also help you to tackle the tasks that have been provided for you to do after watching the learning videos, and is a base for what you will learn later in part 2.
 
 {% embed url="https://youtu.be/Rx14ka5M3cc" %}
 Introduction to workflow and the develop branch

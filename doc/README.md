@@ -28,7 +28,7 @@ Git and Github training Introduction
 
 ### How to get the best from this training
 
-This video is not available yet. Check back on or before the 12th of October 2022.
+This video is not available yet. Check back on or before the 23rd of October 2022.
 
 ### Sign up for this training
 
