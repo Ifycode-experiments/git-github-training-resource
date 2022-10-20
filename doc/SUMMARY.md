@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Git & Github Training Introduction](README.md)
+* [🤗 Git & Github Training Introduction](README.md)
 
 ## Part 1: Github UI
 
-* [Set 1 learning videos and tasks](part-1-github-ui/set-1-github-ui-learning-videos-and-tasks.md)
-* [Set 2 learning videos and tasks](part-1-github-ui/set-2-github-ui-learning-videos-and-tasks.md)
-* [Discussion for Part 1](https://github.com/Ifycode/git-github-training/discussions/79)
+* [🤝 Github contributions](part-1-github-ui/github-contributions.md)
+* [⭐ Workflows and best practices](part-1-github-ui/workflows-and-best-practices.md)
+* [🔗 Discussion for Part 1](https://github.com/Ifycode/git-github-training/discussions/79)
 
 ## part 2: Command line git
 

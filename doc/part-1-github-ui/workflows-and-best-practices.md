@@ -1,4 +1,6 @@
-# Set 2 learning videos and tasks
+# ⭐ Workflows and best practices
+
+
 
 {% hint style="success" %}
 PART 1: GITHUB UI
@@ -8,29 +10,24 @@ PART 1: GITHUB UI
 
 The learning videos in here will talk about workflows and best practices when working with git and Github.
 
-
 {% embed url="https://youtu.be/Rx14ka5M3cc" %}
- Introduction to workflow and the develop branch
+Introduction to workflow and the develop branch
 {% endembed %}
-
 
 {% embed url="https://youtu.be/bnlvtzsL7sY" %}
- Default branch & pulling develop branch while creating fork
+Default branch & pulling develop branch while creating fork
 {% endembed %}
- 
 
 {% embed url="https://www.youtube.com/watch?v=hRFBG3lMq9k" %}
 Default branch and pull request base branch
 {% endembed %}
 
-
 {% embed url="https://www.youtube.com/watch?v=Ej396Vra1oQ" %}
 Workflow common practices and best practices
 {% endembed %}
 
-
-
 ## Tasks
+
 {% embed url="https://youtu.be/IhpzEYTue34" %}
 Task for Part 1 set 2
 {% endembed %}
