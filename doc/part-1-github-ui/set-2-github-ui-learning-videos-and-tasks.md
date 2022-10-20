@@ -1,4 +1,4 @@
-# Set 2 learning videos and tasks
+# ⭐ Workflows and best practices
 
 {% hint style="success" %}
 PART 1: GITHUB UI
@@ -6,34 +6,29 @@ PART 1: GITHUB UI
 
 ## Learning videos
 
-### Introduction to workflow and the develop branch
+The learning videos in here will talk about workflows and best practices when working with the Github UI. What you will learn will also help you to tackle the tasks that have been provided for you to do after watching the learning videos, and is a base for what you will learn later in part 2.
 
 {% embed url="https://youtu.be/Rx14ka5M3cc" %}
-YouTube Video 
+Introduction to workflow and the develop branch
 {% endembed %}
-
-### Default branch & pulling develop branch while creating fork
 
 {% embed url="https://youtu.be/bnlvtzsL7sY" %}
-YouTube Video 
+Default branch & pulling develop branch while creating fork
 {% endembed %}
-
-### Default branch and pull request base branch
 
 {% embed url="https://www.youtube.com/watch?v=hRFBG3lMq9k" %}
-YouTube Video
+Default branch and pull request base branch
 {% endembed %}
-
-### Workflow common practices and best practices
 
 {% embed url="https://www.youtube.com/watch?v=Ej396Vra1oQ" %}
-YouTube Video
+Workflow common practices and best practices
 {% endembed %}
 
-Set 2 learning videos are not available yet. Check back on or before the 12th of October 2022.
 ## Tasks
 
-Set 2 task video is not available yet. Check back on or before the 12th of October 2022.
+{% embed url="https://youtu.be/IhpzEYTue34" %}
+Task for Part 1 set 2
+{% endembed %}
 
 {% hint style="info" %}
 Reload any one page from this learning resource (whenever you come back to continue this training) so that newly added content can show up (if any new content has been added).
