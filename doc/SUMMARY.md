@@ -4,13 +4,13 @@
 
 ## PART 1: GITHUB UI
 
-* [🤝 Github contributions](part-1-github-ui/set-1-github-ui-learning-videos-and-tasks.md)
-* [⭐ Workflows and best practices](part-1-github-ui/set-2-github-ui-learning-videos-and-tasks.md)
+* [🤝 Github contributions](part-1-github-ui/github-contributions.md)
+* [⭐ Workflows and best practices](part-1-github-ui/workflows-and-best-practices.md)
 * [🔗 Discussion for Part 1](https://github.com/Ifycode/git-github-training/discussions/79)
 
 ## PART 2: COMMAND LINE GIT
 
-* [💻 Why use command line?](part-2-command-line-git/learning-videos-and-tasks.md)
+* [💻 Why use command line?](part-2-command-line-git/why-use-command-line.md)
 * [🔗 Discussion for Part 2](https://github.com/Ifycode/git-github-training/discussions/88)
 
 ## CONTRIBUTORS GUIDE

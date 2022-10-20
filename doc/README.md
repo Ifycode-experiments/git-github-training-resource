@@ -1,5 +1,8 @@
-# Git & Github Training Introduction
-{% hint style="success" %} Prerequisite: No knowledge of git and github required. {% endhint %}
+# 🤗 Git & Github Training Introduction
+
+{% hint style="success" %}
+Prerequisite: No knowledge of git and github required.
+{% endhint %}
 
 The Git and GitHub training is a series of learning videos and task exercises put together to prepare anyone interested, for activities that could require the use of Git and GitHub like:
 
@@ -25,7 +28,7 @@ Git and Github training Introduction
 
 ### How to get the best from this training
 
-This video is not available yet. Check back on or before the 12th of October 2022.
+This video is not available yet. Check back on or before the 23rd of October 2022.
 
 ### Sign up for this training
 
