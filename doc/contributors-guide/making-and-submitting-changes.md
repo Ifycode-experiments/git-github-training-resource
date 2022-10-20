@@ -1,9 +1,9 @@
-# How to submit your changes to this training resource
+# ℹ How to submit your changes to this training resource
 
 Everyone is welcome to help improve the content of the Git and Github training resources. There are two repositories linked to the Git and Github project i.e. [learning resource repo](https://github.com/Ifycode/git-github-training-resource) and the [training repo](https://github.com/Ifycode/git-github-training). Interested contributors can follow the guides below when contributing to any of the Git and Github training repositories.
 
 {% hint style="info" %}
- Interested contributors should note that taking the [Git and Github training](https://obiagba-mary.gitbook.io/git-and-github-training) can help you get better at contributing to the Git and Github training project (and any other Github projects they will be taking on in the future).
+Interested contributors should note that taking the [Git and Github training](https://obiagba-mary.gitbook.io/git-and-github-training) can help you get better at contributing to the Git and Github training project (and any other Github projects they will be taking on in the future).
 {% endhint %}
 
 {% hint style="info" %}
@@ -17,7 +17,6 @@ As contributors you can indicate and share to the [Git and GitHub gitbook traini
 * Pull request title must reflect the Issue title you are working on, and it should start with "Fix: ". For example, If the issue title is "Add contribution rules section to help contributions know the important things to do while making changes", the pull request title should be "Fix: Add contribution rules section to help contributions know the important things to do while making changes".
 * Pull request should be linked issue it aims to fix.
 * Feel free to ask questions if you are not clear about something in the issue you are working on.
-
 
 ### Learning resource repo: How to submit your changes
 
