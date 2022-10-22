@@ -1,4 +1,4 @@
-# 💻 Why use command line?
+# 💻 Command line git setup
 
 {% hint style="success" %}
 PART 2: COMMAND LINE GIT
