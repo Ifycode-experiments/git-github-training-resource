@@ -1,10 +1,14 @@
-# 🤗 Git & Github Training Introduction
+---
+description: TRAINING INTRODUCTION
+---
+
+# 🤗 Git & Github for collaboration
 
 {% hint style="success" %}
-Prerequisite: No knowledge of git and github required.
+Prerequisite: No knowledge of Git and Github required.
 {% endhint %}
 
-The Git and GitHub training is a series of learning videos and task exercises put together to prepare anyone interested, for activities that could require the use of Git and GitHub like:
+The Git and GitHub for collaboration training is a series of learning videos and task exercises put together to prepare anyone interested, for activities that could require the use of Git and GitHub like:
 
 * Hacktoberfest
 * Open source contributions
@@ -12,12 +16,13 @@ The Git and GitHub training is a series of learning videos and task exercises pu
 
 This training is free and aims to provide an interactive platform where interested participants will be able to practice what they learn through the provided learning videos. There will be no code-related content, the only type of files the training will use are files with `.md` extensions.
 
-Participating in the Git and Github training will help to understand and solidify your knowledge on the following:
+Participating in the Git and Github for collaboration training will help to understand and solidify your knowledge on the following:
 
 * GitHub contributions
 * Use of the Github UI
 * Use of command line
 * Git workflow
+* Common and best practices
 * Using Git and Github for collaboration
 
 ### Watch video introduction
