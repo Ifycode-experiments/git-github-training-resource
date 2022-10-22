@@ -10,7 +10,7 @@
 
 ## PART 2: COMMAND LINE GIT
 
-* [💻 Why use command line?](part-2-command-line-git/why-use-command-line.md)
+* [💻 Command line git setup](part-2-command-line-git/command-line-git-setup.md)
 * [🔗 Discussion for Part 2](https://github.com/Ifycode/git-github-training/discussions/88)
 
 ## CONTRIBUTORS GUIDE
