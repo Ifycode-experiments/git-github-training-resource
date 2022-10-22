@@ -3,8 +3,11 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![@ifycode's Holopin board](https://holopin.io/api/user/board?user=ifycode)](https://holopin.io/@ifycode)
+#
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/45185388/197324026-6c5cf986-671c-431b-b3c7-981b1f0ccb72.gif)
+
+#
 This repo is for putting together the learning resources for the Git & Github for collaboration training project. You can [access the video lectures live on the gitbook resource](https://obiagba-mary.gitbook.io/git-and-github-training-exercises). You can also access the video content from the [youtube playlist](https://youtube.com/playlist?list=PLMDhbo3xlD1ESa1_9WN4yG7bGDDksEQx7), but we recommend you access the videos from the gitbook resource as it is more engaging. The gitbook reesource also contains guidance for communicating with the instructor along the way.
 
 > **Note**
