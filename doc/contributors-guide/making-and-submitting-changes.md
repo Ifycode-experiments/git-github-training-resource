@@ -1,13 +1,13 @@
 # ℹ How to submit your changes to this training resource
 
-Everyone is welcome to help improve the content of the Git and Github training resources. There are two repositories linked to the Git and Github project i.e. [learning resource repo](https://github.com/Ifycode/git-github-training-resource) and the [training repo](https://github.com/Ifycode/git-github-training). Interested contributors can follow the guides below when contributing to any of the Git and Github training repositories.
+Everyone is welcome to help improve the content of the Git and Github for collaboration training resources. There are two repositories linked to the Git and Github for collaboration project i.e. [learning resource repo](https://github.com/Ifycode/git-github-training-resource) and the [training repo](https://github.com/Ifycode/git-github-training). Interested contributors can follow the guides below when contributing to any of the repositories.
 
 {% hint style="info" %}
-Taking the [Git and Github training](https://obiagba-mary.gitbook.io/git-and-github-training) can help you get better at contributing to the Git and Github training project, and any other projects you will be taking on in the future that require the use of git or Github.
+Taking the [Git and Github for collaboration training](https://obiagba-mary.gitbook.io/git-and-github-training) can help you get better at contributing to the Git and Github for collaboration training project, and any other projects you will be taking on in the future that require the use of git or Github.
 {% endhint %}
 
 {% hint style="info" %}
-Feel free to share that you are a contributor to the [Git and Github gitbook training resource](https://obiagba-mary.gitbook.io/git-and-github-training) on your portfolio, as long as you have contributed and your details appear in the [contributors section](https://github.com/Ifycode/git-github-training-resource#contributors-).&#x20;
+Feel free to share that you are a contributor to the [Git and Github for collaboration gitbook training resource](https://obiagba-mary.gitbook.io/git-and-github-training) on your portfolio, as long as you have contributed and your details appear in the [contributors section](https://github.com/Ifycode/git-github-training-resource#contributors-).
 {% endhint %}
 
 {% hint style="info" %}
@@ -28,7 +28,7 @@ Anyone who has contributed but has not been added to the contributors section sh
 * Confirm that you are in the develop branch of your fork.
 * Create a new branch from the develop branch and make your changes in the new branch you created.
 * Send a pull request pointing to the develop branch of the original learning resource repo.
-* Once you are done making changes, add a comment on the pull request to notify the repo maintainer that the pull request is ready for review.&#x20;
+* Once you are done making changes, add a comment on the pull request to notify the repo maintainer that the pull request is ready for review.
 * Wait for review of your changes from the repo maintainer.
 
 {% hint style="info" %}
@@ -41,7 +41,7 @@ The contributors interested in improving the contents of the learning resource c
 * Go to the develop branch of your fork.
 * Create a new branch from the develop branch and make your changes in the new branch you created.
 * Send a pull request pointing to the develop branch of the original training repo.
-* Once you are done making changes, add a comment on the pull request to notify the repo maintainer that the pull request is ready for review.&#x20;
+* Once you are done making changes, add a comment on the pull request to notify the repo maintainer that the pull request is ready for review.
 * Wait for review of your changes from the repo maintainer.
 
 {% hint style="info" %}
