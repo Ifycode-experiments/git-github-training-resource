@@ -1,6 +1,6 @@
 # Git & Github for collaboration training learning resource
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 #
@@ -48,6 +48,7 @@ Thanks to our wonderful contributors to the [Git & Github for collaboration trai
       <td align="center"><a href="https://github.com/LucianeFernandesRoque"><img src="https://avatars.githubusercontent.com/u/65911301?v=4?s=100" width="100px;" alt="Luciane Fernandes Roque"/><br /><sub><b>Luciane Fernandes Roque</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=LucianeFernandesRoque" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/JaisonBinns"><img src="https://avatars.githubusercontent.com/u/44371995?v=4?s=100" width="100px;" alt="JayBee"/><br /><sub><b>JayBee</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=JaisonBinns" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/rk-1620"><img src="https://avatars.githubusercontent.com/u/109271418?v=4?s=100" width="100px;" alt="rk-1620"/><br /><sub><b>rk-1620</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=rk-1620" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/g33tansh"><img src="https://avatars.githubusercontent.com/u/99789814?v=4?s=100" width="100px;" alt="Geetansh Jangid"/><br /><sub><b>Geetansh Jangid</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=g33tansh" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
