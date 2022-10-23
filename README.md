@@ -5,7 +5,7 @@
 
 #
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/45185388/197324026-6c5cf986-671c-431b-b3c7-981b1f0ccb72.gif)
+[![Git and GitHub for collaboration learning resource](https://user-images.githubusercontent.com/45185388/197324026-6c5cf986-671c-431b-b3c7-981b1f0ccb72.gif)](https://obiagba-mary.gitbook.io/git-and-github-training-exercises)
 
 #
 > **Note**
