@@ -10,7 +10,12 @@
 #
 > **Note**
 >
->This repository is for putting together the learning resources for the Git & Github for collaboration training project. You can [access the video lectures live on the gitbook resource](https://obiagba-mary.gitbook.io/git-and-github-training-exercises). You can also access the video content from the [youtube playlist](https://youtube.com/playlist?list=PLMDhbo3xlD1ESa1_9WN4yG7bGDDksEQx7), but we recommend you access the videos from the gitbook resource as it is more engaging. The gitbook resource also contains guidance for communicating with the instructor along the way.
+>This repository is for putting together the learning resources for the Git & Github for collaboration training project.
+
+#
+> **Note**
+>
+> You can [access the video lectures live on the gitbook resource](https://obiagba-mary.gitbook.io/git-and-github-training-exercises). You can also access the video content from the [youtube playlist](https://youtube.com/playlist?list=PLMDhbo3xlD1ESa1_9WN4yG7bGDDksEQx7), but we recommend you access the videos from the gitbook resource as it is more engaging. The gitbook resource also contains guidance for communicating with the instructor along the way.
 
 #
 > **Note**
