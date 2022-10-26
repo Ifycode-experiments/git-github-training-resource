@@ -30,9 +30,8 @@ You will now learn to use everything you have learnt about in the learning video
 
 **Task**: Follow the instructions in the issue created from the template in the tasks section of the [github contributions page.](https://obiagba-mary.gitbook.io/git-and-github-training/part-1-github-ui/github-contributions). This time, the you are to interact with the develop branch as shown in the learning videos.
 
-{% hint style="info" %}
-Note
-Interested contributors should read up How to submit your changes to this training resource for guidelines on [how to make contributions to this repository](https://obiagba-mary.gitbook.io/git-and-github-training/contributors-guide/making-and-submitting-changes)
+{% hint style="success" %}
+The review you will get after you are done with the task will be based on the instructions in the issue and everything treated in the learning videos you have watched so far. Watch the video below to get better understanding on the tasks :thumbsup:
 {% endhint %}
 
 {% embed url="https://youtu.be/IhpzEYTue34" %}
