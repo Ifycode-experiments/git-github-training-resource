@@ -10,24 +10,16 @@ At this point, the focus is not about Git and Github best practices. The learnin
 
 You will learn the following in this section:
 
-1. Forking a repository and how to know which branch you are in. 
-   
-2. Contributions (overview, issues, commits) and branching. 
-   
-3. How to make pull request, and link an issue to pull request. 
-   
-4. Reviews ( branch, pull requests, linking issues continued).
-   
-5. Managing files or folders (create, edit and delete). 
-    
-6. Branches (overview, deleting branches connected to pull request or fork).
- 
-7. When to delete a branch connected to pull request or a fork. 
-  
-8. Syncing your fork.
-9. General information about the training tasks.
+- Forking a repository and how to know which branch you are in. 
+- Contributions (overview, issues, commits) and branching. 
+- How to make pull request, and link an issue to pull request. 
+- Reviews ( branch, pull requests, linking issues continued).
+- Managing files or folders (create, edit and delete). 
+- Branches (overview, deleting branches connected to pull request or fork).
+- When to delete a branch connected to pull request or a fork. 
+- Syncing your fork.
+- General information about the training tasks.
 
-{% embed url="https://youtu.be/4Z0Z1Z0Z1Z0" %}
  
 {% embed url="https://youtu.be/W8TIY7mbvXo" %}
 Forking a repo, and how to know which branch you are in
