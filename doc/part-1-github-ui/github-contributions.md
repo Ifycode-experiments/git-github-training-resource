@@ -8,41 +8,27 @@ description: 'PART 1: GITHUB UI'
 
 At this point, the focus is not about Git and Github best practices. The learning videos here will cover the basic things needed to get started with contributing to any project using the Github UI. What you will learn will also help you to tackle the tasks that have been provided for you to do after watching the learning videos.
 
-**You will learn the following in this section:**
+You will learn the following in this section:
 
-1. **Forking a repository.**
-   - Know basic settings while forking a repository.
-   - Know which particular branch you are in when you fork a repository.
-2. **Contributing to a repository.**
-   - Overview on contributions to a repository. 
-   - Types of contributions to a repository.
-   - Introduction to issues, structure of issues and how to contribute an issue. 
-   - Make changes to a branch and commit the changes.
-3. **Pull requests.**
-   - Overview on pull requests.
-   - How to make a pull request.
-   - How to link an issue to a pull request.
-4. **Reviews.**
-   - Overview on reviews.
-   - How linking issues to pull requests helps in reviews.
-   - Best practices for reviews.
-5. **Managing files or folders.**
-   - How to create a file or folder.
-   - How to edit a file or folder.
-   - How to delete a file or folder. 
-6. **Branches.**
-   - Overview on branches.
-   - How to delete a branch connected to a pull request.
-   - How to delete a branch connected to a fork.
-7. **Syncing your fork.**
-   - Overview on syncing your fork.
-   - When to sync your fork.
-   - How to sync your fork.
-8. **General information about the training tasks.**
-   - How to get started with the training tasks.
-   - How to submit a new issue.
+1. Forking a repository and how to know which branch you are in. 
+   
+2. Contributions (overview, issues, commits) and branching. 
+   
+3. How to make pull request, and link an issue to pull request. 
+   
+4. Reviews ( branch, pull requests, linking issues continued).
+   
+5. Managing files or folders (create, edit and delete). 
+    
+6. Branches (overview, deleting branches connected to pull request or fork).
+ 
+7. When to delete a branch connected to pull request or a fork. 
+  
+8. Syncing your fork.
+9. General information about the training tasks.
 
-
+{% embed url="https://youtu.be/4Z0Z1Z0Z1Z0" %}
+ 
 {% embed url="https://youtu.be/W8TIY7mbvXo" %}
 Forking a repo, and how to know which branch you are in
 {% endembed %}
