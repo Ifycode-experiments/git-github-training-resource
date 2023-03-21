@@ -1,3 +1,7 @@
+---
+description: 'CONTRIBUTORS GUIDE'
+---
+
 # ℹ Contributing guidelines
 
 {% hint style="info" %}
