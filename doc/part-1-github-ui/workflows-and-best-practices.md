@@ -8,7 +8,7 @@ description: 'PART 1: GITHUB UI'
 
 The learning videos in here will talk about workflows and best practices when working with the Github UI. What you will learn will also help you to tackle the tasks that have been provided for you to do after watching the learning videos, and is a base for what you will learn later in part 2.
 
-You will learn the following from the learning videos on this page:
+You will learn the following in this section:
 
 - Introduction to workflow and the develop branch. 
 - Default branch & pulling develop branch while creating fork. 
