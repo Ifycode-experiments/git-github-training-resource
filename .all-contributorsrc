@@ -124,6 +124,15 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "samuko-things",
+      "name": "Obiagba Samuel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75276934?v=4",
+      "profile": "https://github.com/samuko-things",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 6,
