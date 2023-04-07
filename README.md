@@ -1,6 +1,6 @@
 # Git & Github for collaboration training learning resource
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 #
@@ -52,6 +52,7 @@ Thanks to our wonderful contributors to the [Git & Github for collaboration trai
     </tr>
     <tr>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/aaryansr26"><img src="https://avatars.githubusercontent.com/u/37976723?v=4?s=100" width="100px;" alt="Aaryan Singh Rajput"/><br /><sub><b>Aaryan Singh Rajput</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=aaryansr26" title="Documentation">📖</a> <a href="#ideas-aaryansr26" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/samuko-things"><img src="https://avatars.githubusercontent.com/u/75276934?v=4?s=100" width="100px;" alt="Obiagba Samuel"/><br /><sub><b>Obiagba Samuel</b></sub></a><br /><a href="https://github.com/Ifycode/git-github-training-resource/commits?author=samuko-things" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
