@@ -31,11 +31,14 @@ Participating in the Git and GitHub for collaboration course will help to unders
 Git and Github training Introduction
 {% endembed %}
 
-### How to get the best from this training
+### How to get the best from this course
 
-Continue to the next content/page. This video is not available yet.
+* Find the link to the Code Collabo community gitter chat in the sidebar and join. A lot of improvement changes are being made to this course at this time, so joining the chat will be very helpful.
+* Notify the course instructor that you have started the course (and that you would like them to attend to your assignments once you start submitting them), by filling out the signup form.&#x20;
 
-### Sign up for this training
+If you have taken the 2 steps above, you have made your journey through this course easier. Ride on! Looking forward to reviewing the solutions to the assignments you will submit.
+
+### Sign up for this course
 
 Submitting the sign-up form will notify the instructor of your interest to take the course. This will help the instructor create time for you, attend to you, and better assist you when it is time for reviewing the solutions you submit for the tasks that will be given. You can fill out the form through the embed below, or choose to access the form through the [google form link](https://docs.google.com/forms/d/e/1FAIpQLScxFYaotxy1RuoOsPwBbWWtsKkRQA-HtKHq5Lv3F2Hn4EY5bA/viewform?usp=sf\_link).
 
